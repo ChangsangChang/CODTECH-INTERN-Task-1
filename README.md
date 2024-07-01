@@ -1,4 +1,4 @@
-# CODTECH-INTERN-Task-1
+# CODTECH-INTERN-Task-1(Linear Regression on Housing Prices)
 
 
 **NAME**: B CHANGSANG
